@@ -1,0 +1,7 @@
+.pkl filter=lfs diff=lfs merge=lfs -text
+'*.csv'it filter=lfs diff=lfs merge=lfs -text
+lfs filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+'*.nc' filter=lfs diff=lfs merge=lfs -text
+'*.csv' filter=lfs diff=lfs merge=lfs -text
+'*.pkl' filter=lfs diff=lfs merge=lfs -text
